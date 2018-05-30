@@ -1,6 +1,6 @@
 /* global test, expect */
-import { tobe } from './tobe'
+import { toBe } from './toBe'
 
 test('is hello', () => {
-  expect(tobe()).toBe('hello')
+  expect(toBe()).toBe('hello')
 })

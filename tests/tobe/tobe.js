@@ -1,5 +1,5 @@
-function tobe () {
+function toBe () {
   return 'hello'
 }
 
-export { tobe }
+export { toBe }
